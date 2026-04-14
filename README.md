@@ -25,6 +25,8 @@
 
 ## Creative Projects
 
+- 🧩 **[infinite-canvas](https://github.com/jamesyong-42/infinite-canvas)** — Figma-style infinite canvas in React. Drag, resize, snap, zoom, nested containers, and WebGL widgets from a single composable component. ECS-powered.
+- ⚛️ **[reactive-ecs](https://github.com/jamesyong-42/reactive-ecs)** — Reactive, dependency-free TypeScript ECS. Event-driven components, cached queries, tags, resources, and a topological system scheduler. Designed for UI frameworks.
 - 🖥️ **[xterm-r3f](https://github.com/jamesyong-42/xterm-r3f)** — Renders xterm.js terminals inside React Three Fiber 3D scenes.
 - 🔤 **[r3f-msdf](https://github.com/jamesyong-42/r3f-msdf)** — GPU-accelerated MSDF text rendering for React Three Fiber.
 
